@@ -1,0 +1,14 @@
+{
+  "name": "flowplayer-dist",
+  "homepage": "https://github.com/miguelrios/flowplayer-dist",
+  "_release": "9321e2e2b6",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "9321e2e2b679697b6a5e1ca0b796af07c547e616"
+  },
+  "_source": "git://github.com/miguelrios/flowplayer-dist.git",
+  "_target": "*",
+  "_originalSource": "flowplayer-dist",
+  "_direct": true
+}
