@@ -1,0 +1,24 @@
+{
+  "name": "flowplayer-dist",
+  "version": "5.5.2",
+  "homepage": "https://github.com/miguelrios/flowplayer-dist",
+  "authors": [
+    "Miguel Rios (miguel@miguelrios.org)"
+  ],
+  "description": "mirror of flowplayer dist directory",
+  "main": "flowplayer.js",
+  "keywords": [
+    "flowplayer"
+  ],
+  "license": "GPL v3 with an ADDITIONAL TERM per GPL Section 7",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flowplayer-dist": "*"
+  }
+}
